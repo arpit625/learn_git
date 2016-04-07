@@ -1,2 +1,6 @@
 NEW LINE ADDED
 User : new entry "Arpit Added content"
+
+Added few lines from the browser.
+
+Some extra content goes here.
